@@ -107,7 +107,7 @@ By working together, we can create a future every invester.
 
 Do you have questions, ideas, or simply want to get involved in our mission? We'd love to hear from you!
 
-🌐 **Visit our website:** [FinChart](https:)  
+🌐 **Visit our website:** [FinChart](https://fin-chart-rouge.vercel.app/)  
 📧 **Contact us:** Reach out directly through our website for more information.  
 📱 **Follow us on social media** for the latest updates, campaigns, and conservation efforts.
 
