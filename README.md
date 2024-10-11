@@ -108,7 +108,7 @@ By working together, we can create a future every invester.
 Do you have questions, ideas, or simply want to get involved in our mission? We'd love to hear from you!
 
 🌐 **Visit our website:** [FinChart](https://fin-chart-rouge.vercel.app/)  
-📱 **Tableau Dashboard:**[Tableau Dashboard](https://public.tableau.com/app/profile/pop.epi/viz/SP500TotalReturnsbyYear/SP500TotalReturnsbyYear)
+📱 **Tableau Dashboard:**[Tableau Dashboard](https://public.tableau.com/app/profile/pop.epi/viz/SP500TotalReturnsbyYear/SP500TotalReturnsbyYear)    
 📧 **Contact us:** Reach out directly through our website for more information.  
 
 **Join FinChart today and be part of the solution—one step at a time.** 🌱🌍
