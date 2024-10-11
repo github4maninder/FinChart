@@ -119,10 +119,7 @@ Do you have questions, ideas, or simply want to get involved in our mission? We'
 ## Website Preview📸
 <br>
 <img src='./home.png'>
-<img src='./about.png'>
 <img src='./service.png'>
-<img src='./donate.png'>
-<img src='./donation.png'>
 <br>
 
 ## License 📜 
